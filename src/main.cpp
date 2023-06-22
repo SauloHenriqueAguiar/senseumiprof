@@ -1,6 +1,6 @@
 #include <Arduino.h>
 #include <user_interface.h>
-#include <task.h>
+
 
 
 // Definições de tarefas
